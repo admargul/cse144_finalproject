@@ -103,3 +103,8 @@ The Kaggle leaderboard screenshot is shown below:
 
 ![Kaggle leaderboard screenshot](leaderboard.png)
 
+## Trained Model Weights
+
+Google drive link to trained model checkpoint:
+(https://drive.google.com/file/d/1Mku5DklUO9cXQFkIkzNo4mU2yWcofYDa/view?usp=sharing)
+
