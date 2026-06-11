@@ -95,8 +95,6 @@ This loads `outputs/best_vit_ft.pth`, runs inference on the test images, applies
 outputs/submission_vit.csv
 ```
 
-Submit `outputs/submission_vit.csv` to Kaggle.
-
 ## Kaggle Leaderboard Screenshot
 
 The Kaggle leaderboard screenshot is shown below:
